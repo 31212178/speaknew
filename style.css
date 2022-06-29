@@ -1,0 +1,588 @@
+h1
+{
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(90deg,#f1c40f,#fc9c12);
+    box-shadow: 0 .1rem .3rem rgba(0, 0, 0, .3);
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 20px;
+    border-right: 10px solid white;
+}
+h1 nav
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    flex: 1;
+    float:right;
+    margin-right: 240px;
+    padding-top: 10px;
+}
+nav a
+{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: x-large;
+    color: white;
+}
+.nav1 a:hover
+{
+    color: #838282;
+}
+.login-signup
+{
+    margin-right: 240px;
+    float: right;
+    
+}
+
+.login-signup a:hover
+{
+    color: white;
+}
+
+
+h1 div1
+{
+ margin-left: 30px;
+}
+
+nav a
+{
+ text-decoration: none;
+ padding: 15px;
+ font-size: x-large;
+ color: rgb(255, 255, 255);
+}
+
+.login-signup a
+{
+    color: rgb(98, 98, 98);
+}
+
+
+
+h2
+{
+    color: rgb(255, 255, 255);
+    background: linear-gradient(90deg,#f1c40f,#fc9c12);
+    box-shadow: 0 .1rem .3rem rgba(0, 0, 0, .3);
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.box
+{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 0px;
+    margin-left: 150px;
+    border-right: 10px solid #fc9c12;
+    padding: 10px;
+    float: left;
+    box-shadow: -10px 0px 30px rgba(0, 0, 0, .3);
+    border-radius: 20px;
+}
+
+
+
+body
+{
+  background-color: rgb(211, 211, 211);
+  
+}
+
+
+
+/*.loginbox
+{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px auto; 
+    border-right: 10px solid #fc9c12;
+    box-shadow: -10px 0px 30px rgba(0, 0, 0, .3); 
+    border-radius: 20px;
+}*/
+
+.container
+{
+    width: 1885px; 
+    height: 1440px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(211,211,211);
+    border-radius: 20px;
+}
+
+a .coursebtn
+{
+    background-color: #ffae3c;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    color: white;
+    width: 200px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 95px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+a .coursebtn:hover
+{
+    background-color: #fc9c12;
+}
+
+div p
+{
+  margin-left: 20px;
+  color: rgb(116, 116, 116) 
+}
+
+
+
+.lgbody
+{
+    background-image: url(login-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+
+.login-page
+{ 
+     width: 360px;
+     padding: 10% 0 0;
+     margin: auto;
+    
+}
+
+.form
+{
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255);
+    max-width: 360px;
+    margin: 140px auto 100px;
+    margin-left: 735px;
+    padding: 60px;
+    text-align: center;
+    border-radius: 20px;
+    border-right:10px solid #fc9c12;
+    box-shadow: -10px 0px 30px rgba(0, 0, 0, .3); 
+
+}
+
+
+
+
+
+
+.form input{
+    font-family: 'Open Sans', sans-serif;
+    outline: 1;
+    background: #e4e4e4;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    margin-top: 25px;
+
+
+}
+.form button { 
+
+    font-family: 'Open Sans', sans-serif;
+   text-transform: uppercase;
+   outline: 0;
+   background: #fc9c12;
+   width: 100px;
+   border: 0;
+   padding: 15px;
+   color: #ffffff;
+   font-size: 15px;
+   cursor: pointer;
+   border-radius: 10px;
+   margin-top: 25px;
+
+
+}
+
+.form button:hover
+{
+  background-color: #858585;
+}
+
+
+.form .message{
+    margin: 15px 0 0;
+    color: #a5a5a5;
+    font-size: 16px;
+
+}
+
+.form .message a{
+    color: #fc9c12;
+    text-decoration: none ;
+}
+
+.form .register-form{
+    display: none;
+}
+
+.engbody .engcontainer
+{
+    background-color: rgb(211,211,211);
+    height: 1800px;
+    width: 1325px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.engcontainer .engbox
+{
+    position: relative;
+    width: 1200px;
+    height: 250px;
+    background-color: rgb(255,255,255);
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 0px;
+    margin-left: 70px;
+    border-right: 10px solid #fc9c12;
+    padding: 10px;
+    float: left;
+    box-shadow: -10px 0px 30px rgba(0, 0, 0, .3);
+    border-radius: 20px;  
+}
+
+.querycontainer
+{
+    position: absolute;
+    width: 560px;
+    height: 1800px;
+    background-color: rgb(211,211,211);
+    margin-left: 1325px;
+    margin-top: -1805px;   
+}
+
+.querybox
+{
+    background-color: rgb(255, 255, 255);
+    width: 520px;
+    height: 1550px;
+    margin-top: 50px;
+    margin-left: 20px;
+    box-shadow: -10px 0px 30px rgba(0, 0, 0, .3);
+    border-radius: 15px;
+}
+
+.querybox h4
+{
+    padding-left: 115px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #fc9c12;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: x-large;
+    border-radius: 7px;
+}
+
+
+
+.querybox input
+{
+    padding: 5px;
+    margin-left: 30px;
+    width: 375px;
+    font-size: medium;
+    margin-top: 25px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 3px;
+    border: 1px solid #fc9c12;
+    background-color: rgb(255,255,255);
+    
+
+}
+
+.querybox textarea
+{
+    padding: 5px;
+    margin-left: 30px;
+    width: 450px;
+    height: 200px;
+    margin-top: 25px;
+    font-size: medium;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+    border: 1px solid #fc9c12;
+    background-color: rgb(255, 255, 255);
+    resize: none;
+}
+
+
+.querybox button 
+{
+    margin-top: 25px;
+    margin-left: 35px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-left: 17px;
+    padding-right: 17px;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: #fc9c12;
+    border: none;
+    cursor: pointer;
+    color: #e4e4e4;
+}
+
+.querybox button:hover
+{
+    background-color: #ffae3c;
+}
+
+
+.reviewcontainer
+{
+    width: 900px;
+    height: 950px;
+    background-color: white ;
+    margin-bottom: 15px;
+    margin-left: 500px;
+    border-radius: 15px;
+    box-shadow: -10px 0px 30px rgba(0, 0, 0, .3);
+}
+
+.reviewcontainer input
+{
+    padding: 7px;
+    margin-left: 30px;
+    width: 450px;
+    font-size: x-large;
+    margin-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    border: 1px solid #fc9c12;
+    
+
+}
+
+.reviewcontainer .reviewarea
+{
+    padding: 20px;
+    margin-left: 30px;
+    width: 800px;
+    height: 400px;
+    margin-top: 50px;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    border: 1px solid #fc9c12;
+    resize: none;
+
+
+}
+
+.reviewcontainer button 
+{
+    margin-top: 75px;
+    margin-left: 320px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: larger;
+    border-radius: 10px;
+    background-color: #fc9c12;
+    border: none;
+    cursor: pointer;
+    color: #e4e4e4;
+}
+
+.reviewcontainer button:hover
+{
+    background-color: #ffae3c;
+}
+
+.reviewcontainer input::placeholder,.reviewcontainer textarea::placeholder
+{
+    color: #c0c0c0;
+}
+
+
+
+.engbox h3
+{
+    position: absolute;
+    writing-mode: vertical-lr;
+    margin-top: -10px;
+    margin-left: -9.8px;
+    border-radius: 5px;
+    border-top: 43px solid#fc9c12;
+    font-size: large;
+    color: white;
+    padding: 10px;
+    background-color: #fc9c12;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: -1px;
+    text-orientation:upright;
+}
+
+.engbox .heading
+{
+   margin-left: 50px; 
+   color: rgb(98, 98, 98);
+   font-weight:bold;
+}
+
+.assignbtn
+{
+    text-decoration: none;
+    background-color: #fc9c12;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    margin-left: 280px;
+    margin-top: -45px;
+    float: left;
+}
+
+.assignbtn:hover
+{
+    background-color: #ffae3c;
+}
+
+.engbox .info
+{
+   margin-left: 60px; 
+   color: rgb(160, 160, 160);
+   font-size: large;
+}
+
+footer
+{
+    padding: 100px; 
+    color: white;
+    text-decoration: none;
+    background-color: rgb(116, 116, 116);
+    border-top: 8px solid #fc9c12;
+    border-radius: 20px;
+}
+
+footer h5
+{
+  color: #fc9c12;
+  font-family: 'Open Sans', sans-serif;
+  font-size: medium;
+  margin-top: -50px;
+  margin-left: 150px;
+  letter-spacing: 1px;
+}
+
+footer a
+{
+    text-decoration: none;
+    margin-left: 170px;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
+    color: #c0c0c0;
+}
+
+footer a:hover
+{
+    color: rgb(255, 255, 255);
+}
+
+.hindibody .hindicontainer
+{
+    background-color: rgb(211,211,211);
+    height: 1800px;
+    width: 1325px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.hindicontainer .hindibox
+{
+    position: relative;
+    width: 1200px;
+    height: 250px;
+    background-color: rgb(255,255,255);
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 0px;
+    margin-left: 70px;
+    border-right: 10px solid #fc9c12;
+    padding: 10px;
+    float: left;
+    box-shadow: -10px 0px 30px rgba(0, 0, 0, .3);
+    border-radius: 20px;  
+}
+
+.hindibox h3
+{
+    position: absolute;
+    writing-mode: vertical-lr;
+    margin-top: -10px;
+    margin-left: -9.8px;
+    border-radius: 5px;
+    border-top: 43px solid#fc9c12;
+    font-size: large;
+    color: white;
+    padding: 10px;
+    background-color: #fc9c12;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: -1px;
+    text-orientation:upright;
+}
+
+.hindibox .heading
+{
+   margin-left: 50px; 
+   color: rgb(98, 98, 98);
+   font-weight:bold;
+}
+
+.assignbtn
+{
+    text-decoration: none;
+    background-color: #fc9c12;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    margin-left: 280px;
+    margin-top: -45px;
+    float: left;
+}
+
+.assignbtn:hover
+{
+    background-color: #ffae3c;
+}
+
+.hindibox .info
+{
+   margin-left: 60px; 
+   color: rgb(160, 160, 160);
+   font-size: large;
+}
